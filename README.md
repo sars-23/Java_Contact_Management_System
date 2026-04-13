@@ -194,11 +194,3 @@ ID: 1, Name: John Doe, Email: john.doe@example.com, Phone: 1234567890, Address: 
 ## Author
 
 Created: May 2025
-
-## License
-
-This project is open source and available for educational purposes.
-
-## Support
-
-For issues or questions, please open an issue on GitHub.
