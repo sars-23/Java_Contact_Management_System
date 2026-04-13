@@ -1,0 +1,38 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build directories
+out/
+target/
+build/
+
+# Logs
+*.log
+logs/
+
+# Maven
+*.pom
+pom.properties
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
